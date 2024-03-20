@@ -1,10 +1,10 @@
 {
-  "id": "f9b06334-0a9f-41b7-918f-cd89c15e7988",
-  "name": "Postgrest API",
+  "id": "97094341-307b-437e-b4f2-9507bb99bbe7",
+  "name": "BC23 Web Services",
   "publisher": "javi.salamanca",
   "version": "1.0.0.0",
   "brief": "",
-  "description": "This app connect BC with local Postgre DB.",
+  "description": "This app creates end points.",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
